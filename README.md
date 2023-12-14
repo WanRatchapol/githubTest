@@ -1,4 +1,4 @@
-# githubTest
+# GitHub for Developers Course
 
 ## FAQ
 
